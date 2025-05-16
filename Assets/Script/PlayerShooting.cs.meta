@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 346336f3651c0c34e9765c2118211574
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fpsCamera: {instanceID: 0}
+  - muzzlePoint: {fileID: 5153941693052179972, guid: d22a7a1cf627831478058d4ef2a8f4d0, type: 3}
+  - muzzleFlashPrefab: {fileID: 1065301339718352380, guid: 473c99103e31bae4faa66abfcde48595, type: 3}
+  - impactEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
